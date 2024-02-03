@@ -22,12 +22,21 @@ If you want to see more of my work and skills, please visit my website [spartanc
 - 🔭 I’m currently working on the code and content for that site
 - 🌱 I’m currently learning more advanced C# by taking the Build a TimCo Retail Manager App Series (Phase 1, Phase 2, and Phase 3) from Tim Corey.
 
-## Communities
+## Communities and Contact
 
 You can find me in the communities below. Please feel free to reach out if you need any help or just want to chat, but please follow the guidelines and rules of each community.
 -	GitHub: [pjlplourde](https://github.com/pjlplourde)
+-	GitLab: [pjlplourde](https://gitlab.com/pjlplourde)
+-	BitBucket [pjlplourde](https://bitbucket.org/pjlplourde/)
+-	Azure DevOps [spartancsharp](https://dev.azure.com/spartancsharp/)
 -	Stack Overflow: [pierre-plourde](https://stackoverflow.com/users/16522708/pierre-plourde?tab=profile)
+-	Code Project [pierreplourde](https://www.codeproject.com/Members/pierreplourde)
+-	LinkedIn: [pierre-plourde-ab22391a5](https://www.linkedin.com/in/pierre-plourde-ab22391a5/)
 -	Discord: [pierre_plourde](https://discordapp.com/users/1202992058126827532)
+-	X (formerly Twitter): [@pierre_plourde](https://twitter.com/@pierre_plourde)
+-	Facebook: [pierre.plourde.75](https://www.facebook.com/pierre.plourde.75)
+-	Instagram: [pierre.plourde.75](https://www.instagram.com/pierre.plourde.75)
+-	Skype: [pjlplourde@outlook.com](skype:pjlplourde@outlook.com)
 
 <!--
 **pjlplourde/pjlplourde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
