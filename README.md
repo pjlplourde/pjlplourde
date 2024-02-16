@@ -38,6 +38,12 @@ You can find me in the communities below. Please feel free to reach out if you n
 -	Instagram: [pierre.plourde.75](https://www.instagram.com/pierre.plourde.75)
 -	Skype: [pjlplourde@outlook.com](skype:pjlplourde@outlook.com)
 
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pjlplourde&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pjlplourde&theme=gruvbox&border_radius=4.5)
+
 <!--
 **pjlplourde/pjlplourde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
