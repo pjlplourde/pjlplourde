@@ -8,9 +8,18 @@ I also have extensive experience as a database administrator using SQL Server (p
 
 To pay the bills, my day jobs have been as a Oracle NetSuite Administrator, Developer, and Consultant. I have  earned the following certifications from Oracle NetSuite:
 
-|---|---|---|
-|![Oracle NetSuite Certified Administrator](https://github.com/pjlplourde/logo-o-ns-certified-administrator-lq-021820.jpeg)|![Oracle NetSuite Certified SuiteCloud Developer II](https://github.com/pjlplourde/logo-o-ns-certified-suitecloud-developer-2-lq-021820.jpeg)|![Oracle NetSuite Certified ERP Consultant](https://github.com/pjlplourde/logo-o-ns-certified-erp-consultant-lq-021820.jpeg)|
-|![Oracle NetSuite Certified SuiteFoundation](https://github.com/pjlplourde/logo-o-ns-certified-suite-foundation-lq-021820.jpeg)|![Oracle NetSuite Certified Financial User](https://github.com/pjlplourde/logo-o-ns-certified-financial-user-lq-021820.jpeg)|![Oracle NetSuite Certified SuiteAnalytics User](https://github.com/pjlplourde/logo-o-ns-certified-suite-analytics-user-lq-021820.jpeg)|
+<div align="center">
+	<div>
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-administrator-lq-021820.jpeg" alt="Oracle NetSuite Certified Administrator" />
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-suitecloud-developer-2-lq-021820.jpeg" alt="Oracle NetSuite Certified SuiteCloud Developer II" />
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-erp-consultant-lq-021820.jpeg" alt="Oracle NetSuite Certified ERP Consultant" />
+	</div>
+	<div>
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-suite-foundation-lq-021820.jpeg" alt="Oracle NetSuite Certified SuiteFoundation" />
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-financial-user-lq-021820.jpeg" alt="Oracle NetSuite Certified Financial User" />
+		<img src="https://github.com/pjlplourde/logo-o-ns-certified-suite-analytics-user-lq-021820.jpeg" alt="Oracle NetSuite Certified SuiteAnalytics User" />
+	</div>
+</div>
 
 I have a Bachelor of Science degree with Honours in Chemistry from the Université de Moncton, where my focus was on computational and theoretical chemistry. I also have a Bachelor of Laws degree from the University of New Brunswick. I have worked as a commercial pilot and flight instructor, a lawyer, a customer service representative, a buyer, a systems manager, and a developer.
 
