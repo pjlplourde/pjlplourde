@@ -40,7 +40,7 @@ You can find me in the communities below. Please feel free to reach out if you n
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pjlplourde&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats-pjlplourde.vercel.app/api?username=pjlplourde&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pjlplourde&theme=gruvbox&border_radius=4.5)
 
