@@ -196,7 +196,7 @@ You can find me in the communities below. Please feel free to reach out if you n
 
 ![GitHub Top Languages](https://github-readme-stats-pjlplourde.vercel.app/api/top-langs/?username=pjlplourde&theme=gruvbox&layout=compact&langs_count=20&border_radius=4.5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pjlplourde&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://github-readme-streak-stats-pjlplourde.vercel.app/?user=pjlplourde&theme=gruvbox&border_radius=4.5&mode=weekly)
 
 <!--## 🤔 Support Me
 
