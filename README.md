@@ -45,7 +45,6 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 		- .NET Versions
 		- Building the IAmTimCorey Website
 	- Web Development Mastercourse
-<!--- Accelerate Courses:-->
 - Training Courses:
 	- .NET Core AppSettings from Start to Finish
 	- .NET Core Dependency Injection from Start to Finish
@@ -59,7 +58,9 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 	- SQL Databases from Start to Finish
 	- Database DevOps from Start to Finish
 	- Upgrading to .NET 9
+ 	- Upgrading to .NET 10 from Start to Finish
 	- Navigating AI
+<!--- Accelerate Courses:-->
 -Skill Check Courses:
 	- Build a Suggestion Site App
 	- Build a TimCo Retail Manager App Series
@@ -67,7 +68,7 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 		- Build a TimCo Retail Manager App Phase 2
 		- Build a TimCo Retail Manager App Phase 3
 
-I’m currently taking the Ugrading to .NET 10 Training Course.
+I’m currently taking the Azure Active Directory B2C from Start to Finish Training Course.
 
 My leaning plan is to take the following courses next:
 - Master Courses:
