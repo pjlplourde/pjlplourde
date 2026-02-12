@@ -61,7 +61,6 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 	- Upgrading to .NET 9
  	- Upgrading to .NET 10 from Start to Finish
 	- Navigating AI
-<!--- Accelerate Courses:-->
 -Skill Check Courses:
 	- Build a Suggestion Site App
 	- Build a TimCo Retail Manager App Series
@@ -74,7 +73,6 @@ I’m currently taking the Hands On Refactoring C# Development Course.
 My leaning plan is to take the following courses next:
 - Master Courses:
 	- Game Development Mastercourse
-<!--- Accelerate Courses:-->
 - Skill Check Courses:
 	- C# Fundamentals
 	- Build a Postman Clone App
