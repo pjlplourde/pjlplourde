@@ -54,6 +54,7 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 	- Bootstrap 5 from Start to Finish
 	- Git from Start to Finish
 	- Azure from Start to Finish
+ 	- Azure Active Directory B2C from Start to Finish
 	- Docker from Start to Finish
 	- SQL Databases from Start to Finish
 	- Database DevOps from Start to Finish
@@ -68,19 +69,16 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 		- Build a TimCo Retail Manager App Phase 2
 		- Build a TimCo Retail Manager App Phase 3
 
-I’m currently taking the Azure Active Directory B2C from Start to Finish Training Course.
+I’m currently taking the Hands On Refactoring C# Development Course.
 
 My leaning plan is to take the following courses next:
 - Master Courses:
 	- Game Development Mastercourse
-<!--- Training Courses:
-- Accelerate Courses:-->
+<!--- Accelerate Courses:-->
 - Skill Check Courses:
 	- C# Fundamentals
 	- Build a Postman Clone App
 	- Build an Embedded AI App
-- Other Courses:
-	- Hands On Refactoring
 
 ### Oracle NetSuite
 
