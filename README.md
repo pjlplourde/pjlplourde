@@ -61,7 +61,7 @@ My learning of C# and .NET has been with [Tim Corey's DevForge](https://www.iamt
 	- Upgrading to .NET 9
  	- Upgrading to .NET 10 from Start to Finish
 	- Navigating AI
--Skill Check Courses:
+- Skill Check Courses:
 	- Build a Suggestion Site App
 	- Build a TimCo Retail Manager App Series
 		- Build a TimCo Retail Manager App Phase 1
